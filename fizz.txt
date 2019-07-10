@@ -1,0 +1,20 @@
+Divine@DESKTOP-8D41EGU MINGW64 /c/Learn/Myapp1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.txt
+        new file:   index.html
+        new file:   testfile.js
+
+
+       Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   dir1/hello.py
+        new file:   dir2/fizzbuzz.py
+
