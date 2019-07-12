@@ -12,8 +12,7 @@ def three_sum_optimal(list, target):
     for i in range(0, len(list)):
         for j in range(i+1, len(list)):
             if target - (list[i] + list[j]) in cache:
-
-                print(cache[target - (list[i] + list[j])], i, j)
+                print(cache[target - (list[i] + list[j])], i, j) 
             else:
                 cache[list[i]] = i
                 cache[list[j]] = j
