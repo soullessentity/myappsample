@@ -26,7 +26,15 @@ def convert_list_to_string():
     str1 = " "
     print(str1.join(list1))
 
+def counter_charin_string():
+    string1 = "hello i am divya"
+    cache ={}
+    for ch in string1:
+        cache[ch] = string1.count(ch)
+    print(cache)
+
 
 if __name__ == '__main__':
     convert_string_to_list()
     convert_list_to_string()
+    counter_charin_string()
