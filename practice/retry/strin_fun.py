@@ -6,7 +6,6 @@ def string_to_list(str1):
 
 
 
-
 from collections import Counter
 def count_string_ch(str1):
     cache = {}
@@ -31,6 +30,10 @@ def count_string_ch(str1):
         else:
             cass[ch] =1
     print(cass)
+
+
+
+
 
 if __name__ == '__main__':
     string_parse = "hello my name is udupi"
