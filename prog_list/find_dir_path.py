@@ -16,5 +16,5 @@ def print_file_list(root_dir):
 
 
 if __name__ == '__main__':
-    # print_dir_list('../../Myapp1/.git')
-    print_file_list('../../Myapp1')
+    print_dir_list('../../Myapp1/dir1')
+    print_file_list('../../Myapp1/prog_list')
