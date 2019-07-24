@@ -1,0 +1,9 @@
+string reverse - done
+find sub strings - done
+convert string to integer - done
+find max number of sub lists of given list
+find max sum of 2 numbers in the list
+find max sum of 2 consecutive numbers in the list
+find longest sublist which is in ascending order / descending order
+
+
